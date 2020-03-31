@@ -1,2 +1,2 @@
 # helloworld - syke
-yo dis shit hard, but not really.
+Hello Git world
